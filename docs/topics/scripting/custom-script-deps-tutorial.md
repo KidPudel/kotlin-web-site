@@ -11,6 +11,9 @@ packaging into executables.
 For an overview of Kotlin scripting with examples, check out the talk [Implementing the Gradle Kotlin DSL](https://kotlinconf.com/2019/talks/video/2019/126701/)
 by Rodrigo Oliveira from KotlinConf'19.
 
+Or why you would choose Kotlin scripting over other options like bash for example, check out the talk [Better Than BASH: Scripting Kotlin](https://youtu.be/BHhp_1SGm64)
+by Ollie Hughes from SpringOne Platform 2019
+
 In this tutorial, you'll create a Kotlin scripting project that executes arbitrary Kotlin code with Maven dependencies.
 You'll be able to execute scripts like this:
 
